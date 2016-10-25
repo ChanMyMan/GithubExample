@@ -11,7 +11,7 @@ namespace Chapter2._1
     {
         static void Main(string[] args)
         {
-            WriteLine("1.");
+            WriteLine("12");
             WriteLine("15");
             WriteLine("12.25");
             WriteLine("3.33");
